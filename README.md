@@ -3,4 +3,7 @@ repository.”
 
 first change
 
-Changes on main branch
+
+Change made in dazzling_feature to provoke
+conflict
+
